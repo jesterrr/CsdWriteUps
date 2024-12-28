@@ -93,7 +93,7 @@ int __fastcall main(int argc, const char **argv, const char **envp)
 }
 ```
 
-So, to find a key to the app, we need a key that is 11 characters long. Since the code Obfuscates the input passcode using a bitwise XOR operation with `0x7F` and compares the result to a predefined obfuscated key. So, to find the key, we have to reverse the obfuscation.
+So, to find a key to the app, we need a key that is 11 characters long. Since the code Obfuscates the input passcode using a bitwise XOR operation with `0x7F` and compares the result to a the obfuscated key. So, to find the key, we have to reverse the obfuscation.
 
 To do this, we can:
 1.  Go on [CyberChef](https://gchq.github.io/CyberChef/).

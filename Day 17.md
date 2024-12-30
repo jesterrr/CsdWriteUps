@@ -18,7 +18,7 @@ But it was the introduction of the turboprop that allowed the class to mature, a
 This paragraph mentions Lockheed Martin C-130J, So I searched up it on Youtube to see what it looks like from inside.
 
 This is what I found:
-![pic3](https://raw.githubusercontent.com/jester-var/CsdWriteUps/refs/heads/main/d17.png?token=GHSAT0AAAAAAC4JXBMMTY66WL2AKZLPW252Z3PPSMA)
+![pic3]([https://github.com/jester-var/CsdWriteUps/blob/main/d17.png](https://github.com/jester-var/CsdWriteUps/blob/main/imgs/day17/d17.png))
 
 This picture of cockpit matches the second picture, so the aircraft We're looking for is Lockheed Martin C-130J (C130J)
 
